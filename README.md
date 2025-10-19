@@ -43,12 +43,6 @@ Instead of comparing filenames, it compares the file contents using MD5 hash, en
 ### Binary mode:
 * Always use "rb" for reading files like PDF/DOCX stored in bytes.
 
-## Before
-<img width="652" height="446" alt="Screenshot 2025-10-19 125613" src="https://github.com/user-attachments/assets/d7262d62-3c51-4719-a713-4a6c4a0a45b7" />
-
-## After 
-<img width="631" height="268" alt="Screenshot 2025-10-19 125647" src="https://github.com/user-attachments/assets/62a8a5da-7733-4dab-8256-5abfd132af5b" />
-
 ## Clone This Project 
 ``` bash
 # 1️⃣ Clone the repository
