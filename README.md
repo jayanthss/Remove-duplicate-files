@@ -1,4 +1,11 @@
 # 🧩Duplicate-File-Remover-Using-Hashing
+
+## Before
+<img width="652" height="446" alt="Screenshot 2025-10-19 125613" src="https://github.com/user-attachments/assets/d7262d62-3c51-4719-a713-4a6c4a0a45b7" />
+
+## After 
+<img width="631" height="268" alt="Screenshot 2025-10-19 125647" src="https://github.com/user-attachments/assets/62a8a5da-7733-4dab-8256-5abfd132af5b" />
+
 This Python project automatically detects and optionally deletes duplicate files in a folder using hashing techniques.
 Instead of comparing filenames, it compares the file contents using MD5 hash, ensuring accurate detection even if the names differ.
 
